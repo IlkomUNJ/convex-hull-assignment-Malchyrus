@@ -1,5 +1,0 @@
-D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Komgraf.dir
-D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Komgraf_autogen_timestamp_deps.dir
-D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/CMakeFiles/Komgraf_autogen.dir
