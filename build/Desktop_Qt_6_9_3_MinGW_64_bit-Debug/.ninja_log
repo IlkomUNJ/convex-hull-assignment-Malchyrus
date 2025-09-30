@@ -1,0 +1,17 @@
+# ninja log v6
+10	123	7809492959994969	Komgraf_autogen/timestamp	b0b544a735c6db09
+127	1942	7809489829889585	CMakeFiles/Komgraf.dir/mainwindow.cpp.obj	1d0df3f43f8a761
+171	2829	7809491096847314	CMakeFiles/Komgraf.dir/Komgraf_autogen/mocs_compilation.cpp.obj	1e0e9fd2c111ef7b
+10	123	7809492959994969	Komgraf_autogen/mocs_compilation.cpp	b0b544a735c6db09
+10	123	7809492959994969	D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Komgraf_autogen/mocs_compilation.cpp	b0b544a735c6db09
+10	123	7809492959994969	D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Komgraf_autogen/timestamp	b0b544a735c6db09
+124	2194	7809492961130381	CMakeFiles/Komgraf.dir/main.cpp.obj	4db5e95b1959a6a
+2482	5105	7809486631996506	CMakeFiles/Komgraf.dir/drawingwindow.cpp.obj	2162e1a7339f3394
+2475	5583	7809486631919651	CMakeFiles/Komgraf.dir/drawingcanvas.cpp.obj	fa85a64e90be8e
+2195	2482	7809492981839730	Komgraf.exe	ebfd908c78ad775e
+10	122	7809503873181395	Komgraf_autogen/timestamp	b0b544a735c6db09
+10	122	7809503873181395	Komgraf_autogen/mocs_compilation.cpp	b0b544a735c6db09
+10	122	7809503873181395	D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Komgraf_autogen/timestamp	b0b544a735c6db09
+10	122	7809503873181395	D:/kuliah/Komgraf/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Komgraf_autogen/mocs_compilation.cpp	b0b544a735c6db09
+123	2291	7809503874305377	CMakeFiles/Komgraf.dir/drawingcanvas.cpp.obj	fa85a64e90be8e
+2291	2588	7809503895990811	Komgraf.exe	ebfd908c78ad775e
